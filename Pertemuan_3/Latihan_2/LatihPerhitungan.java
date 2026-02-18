@@ -1,7 +1,7 @@
 /*
 NIM : D1041241044
 NAMA : Juven Lawrinsen
-Program untuk menyimpan data mahasiswa dengan tipe data variable berbeda-beda  
+Program untuk melakukan operasi aritmatika sederhana dan menampilkan perubahan nilai variabe
 */
 
 

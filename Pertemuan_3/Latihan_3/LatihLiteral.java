@@ -1,3 +1,10 @@
+/*
+NIM : D1041241044
+NAMA : Juven Lawrinsen
+Program untuk mendemonstrasikan penggunaan literal untuk berbagai tipe data primitif
+*/
+
+
 public class LatihLiteral {
     public static void main(String[] args) {
         byte a = 127;
