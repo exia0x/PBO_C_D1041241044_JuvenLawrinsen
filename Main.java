@@ -1,7 +1,6 @@
 /*
 NIM : D1041241044
 NAMA : Juven Lawrinsen
-Program untuk variable
 */
 
 public class Main {
